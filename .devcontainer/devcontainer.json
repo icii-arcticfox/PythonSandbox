@@ -1,0 +1,11 @@
+{
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "hostRequirements": {
+       "memory": "8gb",
+       "storage": "32gb"
+    },
+    "extensions": [
+        "icii.arctic-fox",
+        "${containerWorkspaceFolder}/.devcontainer/vscode-highlight-1.8.1.vsix"
+    ]
+}
