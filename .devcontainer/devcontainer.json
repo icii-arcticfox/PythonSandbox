@@ -5,7 +5,6 @@
        "storage": "32gb"
     },
     "extensions": [
-        "icii.arctic-fox",
-        "${containerWorkspaceFolder}/.devcontainer/vscode-highlight-1.8.1.vsix"
+        "icii.arctic-fox"
     ]
 }
